@@ -13,24 +13,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download JSON
+      - name: Download Latest JSON
         run: |
-          curl --fail --silent --show-error \
-            https://mrzplay.top/test/geo/nazmul.json \
+          curl --fail --location --silent --show-error \
+            "https://mrzplay.top/test/geo/nazmul.json" \
             -o nazmul.json
 
-      - name: Commit if changed
+      - name: Verify Download
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "File Info:"
+          ls -lh nazmul.json
+          echo ""
+          echo "Size:"
+          wc -c nazmul.json
+          echo ""
+          echo "First 20 lines:"
+          head -20 nazmul.json
+
+      - name: Commit & Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add nazmul.json
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes detected."
           else
             git commit -m "Auto update nazmul.json"
             git push
