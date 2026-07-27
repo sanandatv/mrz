@@ -2,7 +2,7 @@ name: Update JSON
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # প্রতি ১০ মিনিটে
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,19 +24,19 @@ jobs:
 
       - name: Verify Download
         run: |
-          echo "File Info:"
+          echo "=== File Size ==="
           ls -lh nazmul.json
           echo ""
-          echo "Size:"
+          echo "=== Bytes ==="
           wc -c nazmul.json
           echo ""
-          echo "First 20 lines:"
+          echo "=== First 20 Lines ==="
           head -20 nazmul.json
 
-      - name: Commit & Push if Changed
+      - name: Commit Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add nazmul.json
 
