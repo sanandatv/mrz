@@ -2,7 +2,7 @@ name: Update JSON
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # প্রতি ১০ মিনিটে চলবে
+    - cron: "*/10 * * * *"   # প্রতি ১০ মিনিটে
   workflow_dispatch:
 
 permissions:
@@ -13,21 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Download JSON
         run: |
-          curl -L "https://mrzplay.top/test/geo/nazmul.json" -o nazmul.json
+          curl --fail --silent --show-error \
+            https://mrzplay.top/test/geo/nazmul.json \
+            -o nazmul.json
 
-      - name: Commit Changes
+      - name: Commit if changed
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add nazmul.json
 
-          git diff --cached --quiet || (
-            git commit -m "Auto update JSON"
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto update nazmul.json"
             git push
-          )
+          fi
