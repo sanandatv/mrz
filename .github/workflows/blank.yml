@@ -1,0 +1,33 @@
+name: Update JSON
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # প্রতি ১০ মিনিটে চলবে
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download JSON
+        run: |
+          curl -L "https://YOUR_SOURCE_URL" -o nazmul.json
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add nazmul.json
+
+          git diff --cached --quiet || (
+            git commit -m "Auto update JSON"
+            git push
+          )
