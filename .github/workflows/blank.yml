@@ -18,7 +18,7 @@ jobs:
 
       - name: Download JSON
         run: |
-          curl -L "https://YOUR_SOURCE_URL" -o nazmul.json
+          curl -L "https://mrzplay.top/test/geo/nazmul.json" -o nazmul.json
 
       - name: Commit Changes
         run: |
