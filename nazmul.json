@@ -4,144 +4,144 @@
         "name": "Star Gold HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
         "clearkey": "ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993256~exp=1787014856~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=a0f9965570ebe8194705a1130187d6b14ab841d14eeb4e7a530b3b3561351efa",
-        "cookie": "hdnea=st=1786993256~exp=1787014856~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=a0f9965570ebe8194705a1130187d6b14ab841d14eeb4e7a530b3b3561351efa"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995021~exp=1787016621~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=03cbcc6933dcf4f41cd943bfae0fdce38f66c01342fd9a4b47214788b0703137",
+        "cookie": "hdnea=st=1786995021~exp=1787016621~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=03cbcc6933dcf4f41cd943bfae0fdce38f66c01342fd9a4b47214788b0703137"
     },
     {
         "id": "162JP",
         "name": "Sony Ten 1 HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
         "clearkey": "523acf1f55485476817958a62a3f2ed9:52b3cea435ed25d445f9eae4883c7001",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993256~exp=1787014856~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=fafb4c9350c4add075ac03a7259a0c6a8315ae6bf03b4ff612d9b601f44b6dd6",
-        "cookie": "hdnea=st=1786993256~exp=1787014856~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=fafb4c9350c4add075ac03a7259a0c6a8315ae6bf03b4ff612d9b601f44b6dd6"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995022~exp=1787016622~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=77fb939c8bca6b385fa1d7bd8c1f37fd4260f25080af1c09375b8e1cba981751",
+        "cookie": "hdnea=st=1786995022~exp=1787016622~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=77fb939c8bca6b385fa1d7bd8c1f37fd4260f25080af1c09375b8e1cba981751"
     },
     {
         "id": "291JP",
         "name": "Sony TV HD (SET HD) +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
         "clearkey": "ebd37e936867596a868cc085070e4cd5:f5c58e6bf0a2deb018fe87a934a6a1d0",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993256~exp=1787014856~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=e38fbf598e6d23157513f53e3e89e9c2468ffbcb80e6aeffa8bd52bf4079e71a",
-        "cookie": "hdnea=st=1786993256~exp=1787014856~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=e38fbf598e6d23157513f53e3e89e9c2468ffbcb80e6aeffa8bd52bf4079e71a"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995022~exp=1787016622~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=0ef5292e3f48c7ba5e5579a4d1f89f27e8e6e165f92877ad28164a62b613ecc8",
+        "cookie": "hdnea=st=1786995022~exp=1787016622~acl=/bpk-tv/Sony_HD_BTS/WDVLive/*~hmac=0ef5292e3f48c7ba5e5579a4d1f89f27e8e6e165f92877ad28164a62b613ecc8"
     },
     {
         "id": "317JP",
         "name": "Star Jalsha HD +",
         "logo": "assets/tvlogos/Star_Jalsha_HD.jpg",
         "clearkey": "7810c0264da15a62b200a3254d041aed:cb1e3bcfcdb1281b85625b12dae6de43",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993257~exp=1787014857~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=89a2a360710b94388d226bd6c7945817e29a72bf267f2cd1aa5ff8c786e79acb",
-        "cookie": "hdnea=st=1786993257~exp=1787014857~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=89a2a360710b94388d226bd6c7945817e29a72bf267f2cd1aa5ff8c786e79acb"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995022~exp=1787016622~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=7a1ade164675774d95330a7a36ae604fbc482f95c2abf3d0683eb080df1e6b06",
+        "cookie": "hdnea=st=1786995022~exp=1787016622~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=7a1ade164675774d95330a7a36ae604fbc482f95c2abf3d0683eb080df1e6b06"
     },
     {
         "id": "457JP",
         "name": "Star Jalsa Movies HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",
         "clearkey": "336cae9ff0c957cfabc598f4faf7e701:24b00e0fec8785b474f544560dfec897",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993257~exp=1787014857~acl=/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/*~hmac=138d25987a820fb98bbd19ddfd9ad240d5cb50afe5177fb0a7e6965cd6827c97",
-        "cookie": "hdnea=st=1786993257~exp=1787014857~acl=/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/*~hmac=138d25987a820fb98bbd19ddfd9ad240d5cb50afe5177fb0a7e6965cd6827c97"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995023~exp=1787016623~acl=/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/*~hmac=89ff72fd99be3f04e3428a972cee03bc670da522851648fe78081006a36a4ecb",
+        "cookie": "hdnea=st=1786995023~exp=1787016623~acl=/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/*~hmac=89ff72fd99be3f04e3428a972cee03bc670da522851648fe78081006a36a4ecb"
     },
     {
         "id": "476JP",
         "name": "Sony MAX HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX.png",
         "clearkey": "fe8b5e6e0a275d7fbfeb27abf9b75c0b:c27da65de4d17976409daed680b1e9a1",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_BTS/WDVLive/index.mpd?__hdnea__=st=1786993257~exp=1787014857~acl=/bpk-tv/SonyMAX_BTS/WDVLive/*~hmac=8ec5f2b20d427707b4ba2dbb00461e074ae6548306f05c2af20f3640792f6197",
-        "cookie": "hdnea=st=1786993257~exp=1787014857~acl=/bpk-tv/SonyMAX_BTS/WDVLive/*~hmac=8ec5f2b20d427707b4ba2dbb00461e074ae6548306f05c2af20f3640792f6197"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_BTS/WDVLive/index.mpd?__hdnea__=st=1786995023~exp=1787016623~acl=/bpk-tv/SonyMAX_BTS/WDVLive/*~hmac=6bb3bdf778442325461d31a223373d4a7cd7e0e7b12df89a8c5bb038ae3a4b1b",
+        "cookie": "hdnea=st=1786995023~exp=1787016623~acl=/bpk-tv/SonyMAX_BTS/WDVLive/*~hmac=6bb3bdf778442325461d31a223373d4a7cd7e0e7b12df89a8c5bb038ae3a4b1b"
     },
     {
         "id": "471JP",
         "name": "Sony SAB HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonySAB.png",
         "clearkey": "0449d593e6bb5a81a7ab5c5986e5940b:c0abc7e159389031e53a4b8dfa53d141",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/WDVLive/index.mpd?__hdnea__=st=1786993257~exp=1787014857~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=abe01839a3262cbb5710c0c14b075ec3c072a7e10f6cea3f0d56e5b616dd8113",
-        "cookie": "hdnea=st=1786993257~exp=1787014857~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=abe01839a3262cbb5710c0c14b075ec3c072a7e10f6cea3f0d56e5b616dd8113"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/WDVLive/index.mpd?__hdnea__=st=1786995023~exp=1787016623~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=12e1a863608dc643564d72068ae08fed56022f1f054b9a2b45ff9bcfd4b974ec",
+        "cookie": "hdnea=st=1786995023~exp=1787016623~acl=/bpk-tv/SonySAB_BTS/WDVLive/*~hmac=12e1a863608dc643564d72068ae08fed56022f1f054b9a2b45ff9bcfd4b974ec"
     },
     {
         "id": "484JP",
         "name": "Zee Cinema +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
         "clearkey": "90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1786993258~exp=1787014858~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=d6267be2908bb7dd590ce3b7ceba1c50ed5b60feaa62c3bd0a3fa66a01cfecf5",
-        "cookie": "hdnea=st=1786993258~exp=1787014858~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=d6267be2908bb7dd590ce3b7ceba1c50ed5b60feaa62c3bd0a3fa66a01cfecf5"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1786995023~exp=1787016623~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=ab1a24b86b58123189413c1b872b8ae8949046bcde73f5f5c42309d5a5dc87dc",
+        "cookie": "hdnea=st=1786995023~exp=1787016623~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=ab1a24b86b58123189413c1b872b8ae8949046bcde73f5f5c42309d5a5dc87dc"
     },
     {
         "id": "625JP",
         "name": "Zee Bangla +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/e3d630780f1c667d03c05b1d9a419a2e.png",
         "clearkey": "fad89ecbae1c5b819e77020cbd209913:4dec9d39fea54d2f38610274bcf3536a",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBangla_BTS/WDVLive/index.mpd?__hdnea__=st=1786993258~exp=1787014858~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=86dfc595293ba40dbd337b67cc2f0a5bbeaa4b7d55774c6dae854a2858cca4c2",
-        "cookie": "hdnea=st=1786993258~exp=1787014858~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=86dfc595293ba40dbd337b67cc2f0a5bbeaa4b7d55774c6dae854a2858cca4c2"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBangla_BTS/WDVLive/index.mpd?__hdnea__=st=1786995024~exp=1787016624~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=df803bcd71eed5dec9940ff8aa90565036764dfffd8ebb5232cb1e3e2994f07e",
+        "cookie": "hdnea=st=1786995024~exp=1787016624~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=df803bcd71eed5dec9940ff8aa90565036764dfffd8ebb5232cb1e3e2994f07e"
     },
     {
         "id": "698JP",
         "name": "Aakash Aath +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aakaash_bangla.png",
         "clearkey": "b137c51f880d5536b7c3ab2b1dcb2101:385e14a54c8770b828f74bb59e8ad309",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aakaash_bangla_BTS/WDVLive/index.mpd?__hdnea__=st=1786993258~exp=1787014858~acl=/bpk-tv/Aakaash_bangla_BTS/WDVLive/*~hmac=f0cdd6cb192fad65e60504c8ab4d1a6869129e026a7186c3a0a85047dab5ebeb",
-        "cookie": "hdnea=st=1786993258~exp=1787014858~acl=/bpk-tv/Aakaash_bangla_BTS/WDVLive/*~hmac=f0cdd6cb192fad65e60504c8ab4d1a6869129e026a7186c3a0a85047dab5ebeb"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aakaash_bangla_BTS/WDVLive/index.mpd?__hdnea__=st=1786995024~exp=1787016624~acl=/bpk-tv/Aakaash_bangla_BTS/WDVLive/*~hmac=3e3357baebaced1aaef1537b6bc613cd23393af74e0908a7222c6686f84e7cec",
+        "cookie": "hdnea=st=1786995024~exp=1787016624~acl=/bpk-tv/Aakaash_bangla_BTS/WDVLive/*~hmac=3e3357baebaced1aaef1537b6bc613cd23393af74e0908a7222c6686f84e7cec"
     },
     {
         "id": "697JP",
         "name": "Sony Aath +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyAATH.png",
         "clearkey": "c00c75edb2a65e2d86f4094249bfbd85:9221a2bda61fe219560311c60662ce30",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyAATH_BTS/WDVLive/index.mpd?__hdnea__=st=1786993258~exp=1787014858~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=56b22e4410e4d13cf9bedda926d8870fd22e2f49b2554d29b89a6dfa34644025",
-        "cookie": "hdnea=st=1786993258~exp=1787014858~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=56b22e4410e4d13cf9bedda926d8870fd22e2f49b2554d29b89a6dfa34644025"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyAATH_BTS/WDVLive/index.mpd?__hdnea__=st=1786995024~exp=1787016624~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=0b342f18635876c774361b47d92f42c6d8e5ce63908af45cf2a7f54ed68b9106",
+        "cookie": "hdnea=st=1786995024~exp=1787016624~acl=/bpk-tv/SonyAATH_BTS/WDVLive/*~hmac=0b342f18635876c774361b47d92f42c6d8e5ce63908af45cf2a7f54ed68b9106"
     },
     {
         "id": "762JP",
         "name": "Sony PIX +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyPIX.png",
         "clearkey": "00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/WDVLive/index.mpd?__hdnea__=st=1786993259~exp=1787014859~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=e1fc3b697b36d0492becba3c1066f5bbfa89cf9387e0fba5bee46eae41d269ca",
-        "cookie": "hdnea=st=1786993259~exp=1787014859~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=e1fc3b697b36d0492becba3c1066f5bbfa89cf9387e0fba5bee46eae41d269ca"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/WDVLive/index.mpd?__hdnea__=st=1786995024~exp=1787016624~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=c68bdbf3a5072976e60c2ddade226d94751186e59479041480af041cd07fc60b",
+        "cookie": "hdnea=st=1786995024~exp=1787016624~acl=/bpk-tv/SonyPIX_BTS/WDVLive/*~hmac=c68bdbf3a5072976e60c2ddade226d94751186e59479041480af041cd07fc60b"
     },
     {
         "id": "1104JP",
         "name": "Star Movies HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
         "clearkey": "6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993259~exp=1787014859~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=40923e21470bc56d5a3ea462b54edf8aff367e34b51758872c0fa8f2d89a37a1",
-        "cookie": "hdnea=st=1786993259~exp=1787014859~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=40923e21470bc56d5a3ea462b54edf8aff367e34b51758872c0fa8f2d89a37a1"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995024~exp=1787016624~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=89268cf6372ca34790ef1650ab67716a4b876c70c4665abf75ad5121d2cf925e",
+        "cookie": "hdnea=st=1786995024~exp=1787016624~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=89268cf6372ca34790ef1650ab67716a4b876c70c4665abf75ad5121d2cf925e"
     },
     {
         "id": "1132JP",
         "name": "Star Plus HD +",
         "logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7049/597049-h",
         "clearkey": "6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993259~exp=1787014859~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=060231d16970ac7b82eeb4d31d9f2202727971ff25e6358708547135b83a3ee4",
-        "cookie": "hdnea=st=1786993259~exp=1787014859~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=060231d16970ac7b82eeb4d31d9f2202727971ff25e6358708547135b83a3ee4"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995025~exp=1787016625~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=97ad91f23e631bb7f1c9d21770df9bbb6ebbcbed2f396da8a0a3486e3681ee24",
+        "cookie": "hdnea=st=1786995025~exp=1787016625~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=97ad91f23e631bb7f1c9d21770df9bbb6ebbcbed2f396da8a0a3486e3681ee24"
     },
     {
         "id": "1369JP",
         "name": "Colors Bangla SD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",
         "clearkey": "d763256c569c5d8f8a67f401c6cbd3a4:a54fc14b9705bae5ede3f70b9395bc1d",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993259~exp=1787014859~acl=/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/*~hmac=b4937373bb4f00efd512790ce60dea3d1b37a3028ee40264e361df44f2a31448",
-        "cookie": "hdnea=st=1786993259~exp=1787014859~acl=/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/*~hmac=b4937373bb4f00efd512790ce60dea3d1b37a3028ee40264e361df44f2a31448"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995025~exp=1787016625~acl=/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/*~hmac=e9ee0e6ff41eefb68106f2b2f1242a28f9042361f182d24e30747a90da9a384f",
+        "cookie": "hdnea=st=1786995025~exp=1787016625~acl=/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/*~hmac=e9ee0e6ff41eefb68106f2b2f1242a28f9042361f182d24e30747a90da9a384f"
     },
     {
         "id": "1657JP",
         "name": "Colors Bangla Cinema +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
         "clearkey": "6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1786993259~exp=1787014859~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=aab70925fe9651e45941d0da8aa80359290a15f18ae0f7333642c972c49a21ee",
-        "cookie": "hdnea=st=1786993259~exp=1787014859~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=aab70925fe9651e45941d0da8aa80359290a15f18ae0f7333642c972c49a21ee"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1786995025~exp=1787016625~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=7f8335260f2366b3d8f13297b565e4d0ba89719e4ed214e939cabc11c4cff8bc",
+        "cookie": "hdnea=st=1786995025~exp=1787016625~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=7f8335260f2366b3d8f13297b565e4d0ba89719e4ed214e939cabc11c4cff8bc"
     },
     {
         "id": "3476JP",
         "name": "Zee Bangla Sonar +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png",
         "clearkey": "83ac7eaf98b354989ba057359ae0eebd:51c2750bd6271ec4e196fc5d219a3b20",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaSonar_BTS/WDVLive/index.mpd?__hdnea__=st=1786993260~exp=1787014860~acl=/bpk-tv/ZeeBanglaSonar_BTS/WDVLive/*~hmac=728a0837c36514b51316ed8725d54870644c9bd255fe1fadbfd40ce12c11650f",
-        "cookie": "hdnea=st=1786993260~exp=1787014860~acl=/bpk-tv/ZeeBanglaSonar_BTS/WDVLive/*~hmac=728a0837c36514b51316ed8725d54870644c9bd255fe1fadbfd40ce12c11650f"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaSonar_BTS/WDVLive/index.mpd?__hdnea__=st=1786995025~exp=1787016625~acl=/bpk-tv/ZeeBanglaSonar_BTS/WDVLive/*~hmac=b318b1a8e83a49b4859b50b8ed8febc49142a6096b511ac300fda8b3b67b080c",
+        "cookie": "hdnea=st=1786995025~exp=1787016625~acl=/bpk-tv/ZeeBanglaSonar_BTS/WDVLive/*~hmac=b318b1a8e83a49b4859b50b8ed8febc49142a6096b511ac300fda8b3b67b080c"
     },
     {
         "id": "155JP",
         "name": "Sony Ten 5 HD +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
         "clearkey": "233d5f64b5b1547dae38f5a8b0b85efa:3b000618435f702db7d9910d8265584a",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Six_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993260~exp=1787014860~acl=/bpk-tv/Six_HD_BTS/WDVLive/*~hmac=f55fea6cdf757ff0f6d0ba487ce6e6bee372b80b712b931fa5cd75283d8e883f",
-        "cookie": "hdnea=st=1786993260~exp=1787014860~acl=/bpk-tv/Six_HD_BTS/WDVLive/*~hmac=f55fea6cdf757ff0f6d0ba487ce6e6bee372b80b712b931fa5cd75283d8e883f"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Six_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995026~exp=1787016626~acl=/bpk-tv/Six_HD_BTS/WDVLive/*~hmac=5921fa0932dada1c1da0e416f7dab60f6d35afae27fa28cf8dcc0381b2d792e4",
+        "cookie": "hdnea=st=1786995026~exp=1787016626~acl=/bpk-tv/Six_HD_BTS/WDVLive/*~hmac=5921fa0932dada1c1da0e416f7dab60f6d35afae27fa28cf8dcc0381b2d792e4"
     },
     {
         "id": "525JP",
@@ -156,23 +156,23 @@
         "name": "Sony Yay Hindi +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYHin.png",
         "clearkey": "d48f57d25a6b5fb3b2d38d1f8e7e25a4:93e43fff8c073946af5054366bc0926b",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_BTS/WDVLive/index.mpd?__hdnea__=st=1786993262~exp=1787014862~acl=/bpk-tv/SonyYAYHin_BTS/WDVLive/*~hmac=32b3a4f95aa831840171deb777675956c309925fe176527184acf9c6f6fb92ee",
-        "cookie": "hdnea=st=1786993262~exp=1787014862~acl=/bpk-tv/SonyYAYHin_BTS/WDVLive/*~hmac=32b3a4f95aa831840171deb777675956c309925fe176527184acf9c6f6fb92ee"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_BTS/WDVLive/index.mpd?__hdnea__=st=1786995027~exp=1787016627~acl=/bpk-tv/SonyYAYHin_BTS/WDVLive/*~hmac=60e00417ba6793ec7d646ebdc5d2c38a21ecdfefcbf3fb4cd722559471cb2e00",
+        "cookie": "hdnea=st=1786995027~exp=1787016627~acl=/bpk-tv/SonyYAYHin_BTS/WDVLive/*~hmac=60e00417ba6793ec7d646ebdc5d2c38a21ecdfefcbf3fb4cd722559471cb2e00"
     },
     {
         "id": "892JP",
         "name": "Sony Ten 3 HD Hindi +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
         "clearkey": "71719eea0bbb5319a4e854ac52ea7871:752ed8f45c43ed858af4c1716c05241a",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993268~exp=1787014868~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=76f062405bd47f5474cefbd9b730c689cd811d807eb9c9a7dae0c1d8fefc9d79",
-        "cookie": "hdnea=st=1786993268~exp=1787014868~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=76f062405bd47f5474cefbd9b730c689cd811d807eb9c9a7dae0c1d8fefc9d79"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995027~exp=1787016627~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=d25b5ef05b02302f2b7c90c1cf21bbd38766d889fad546f6ff78cf26d77de68d",
+        "cookie": "hdnea=st=1786995027~exp=1787016627~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=d25b5ef05b02302f2b7c90c1cf21bbd38766d889fad546f6ff78cf26d77de68d"
     },
     {
         "id": "1368JP",
         "name": "Colors +",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",
         "clearkey": "ff7b708fe5605ae58bd188fc23682d88:576d81e78c5f91a6eb1e568913cab59e",
-        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1786993268~exp=1787014868~acl=/bpk-tv/Colors_SD_BTS/WDVLive/*~hmac=373e723798adac9eca87e4c89e4338a142a7456cddaced2aab7241c39340dcb4",
-        "cookie": "hdnea=st=1786993268~exp=1787014868~acl=/bpk-tv/Colors_SD_BTS/WDVLive/*~hmac=373e723798adac9eca87e4c89e4338a142a7456cddaced2aab7241c39340dcb4"
+        "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1786995028~exp=1787016628~acl=/bpk-tv/Colors_SD_BTS/WDVLive/*~hmac=e8bdd65262168924a34c3afc940c78f460cdccb0e343af3f6e24434ad6d0a636",
+        "cookie": "hdnea=st=1786995028~exp=1787016628~acl=/bpk-tv/Colors_SD_BTS/WDVLive/*~hmac=e8bdd65262168924a34c3afc940c78f460cdccb0e343af3f6e24434ad6d0a636"
     }
 ]
